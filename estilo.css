@@ -14,7 +14,7 @@ html {
 
 /* Celulares (hasta 767px) */
 @media (max-width: 767px) {
-  #encabezado, #trailer,  #contacto, #bgent, #bgpremios, #bg6, #galeria {
+  #encabezado, #trailer,  #contacto, #bgent,  #bg6, #galeria {
     background-image: url(imagenes/BGV.jpg);
     background-size: cover;
     background-repeat: no-repeat;
