@@ -35,7 +35,7 @@ html {
 /* Tablets y PCs (768px en adelante) */
 @media (min-width: 768px) {
   
-    #encabezado, #trailer, #galeria, #prensa,#entradas, #soundtrack, #contacto{
+    #encabezado, #trailer, #galeria, #prensa,#entradas, #contacto{
           background-image: url(imagenes/bg.jpg);
           background-size: cover;
           background-position: center;
@@ -89,7 +89,7 @@ footer i:hover{
 }
 
 
-#sinopsis,  #equipo, #monarca, #insumisa, #pajaro, #entrevistas, #trailer h4{
+#sinopsis,  #equipo, #monarca, #insumisa, #pajaro, #entrevistas, #trailer h4, #soundtrack{
     background-color: #75A89B;
     color: aliceblue;
 }
