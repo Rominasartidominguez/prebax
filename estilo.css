@@ -89,7 +89,7 @@ footer i:hover{
 }
 
 
-#sinopsis,  #equipo, #monarca, #insumisa, #pajaro, #entrevistas, #trailer h4, #soundtrack{
+#sinopsis,  #equipo, #monarca, #insumisa, #pajaro, #entrevistas, #trailer h4, #soundtrack, .bgentrev{
     background-color: #75A89B;
     color: aliceblue;
 }
@@ -98,7 +98,7 @@ footer i:hover{
     color: aliceblue;
 }
 
-#intencion, #directora, #premios, .bgentrev{
+#intencion, #directora, #premios{
     background-color: #22312D;
     color: aliceblue;
 }
